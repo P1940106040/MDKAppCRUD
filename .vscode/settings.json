@@ -1,3 +1,4 @@
 {
-    "mdk.platform": "None"
+    "mdk.platform": "None",
+    "actions": []
 }
